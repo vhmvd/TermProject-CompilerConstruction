@@ -14,11 +14,3 @@
 >
 >`make clean` Deletes the outfile and files in src and bin.
 
-## Made by
-
-|Name|Reg|
-|--- | ---|
-|Ahmed Nadeem|2018047|
-|Hamza Imran|2018267|
-|Saad Salman|2018319|
-|Abdurrehman Ali|2018030|
