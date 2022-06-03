@@ -1,0 +1,22 @@
+select              SELECT
+*                   SELECTALL
+from                FROM
+asd                 IDENTIFIER
+;                   ;
+
+
+<Parsing tree>
+-program
+    -table_stmt
+        -query_stmt
+            -SELECT
+            -select_col
+                -selectways
+                    -diffcolumns
+                        -SELECTALL
+            -from_stmt
+                -FROM
+                -origintable
+                    -IDENTIFIER
+INPUT ACCEPTED
+
